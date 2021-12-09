@@ -1,4 +1,4 @@
-# day6_1.py
+# day6_1_2.py
 
 
 def get_fish(filename: str) -> list[int]:
