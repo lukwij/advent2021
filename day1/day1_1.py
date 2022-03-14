@@ -1,4 +1,4 @@
-# day2_1.py
+# day1_1.py
 
 def get_next_value(filename: str):
     with open(filename) as f:
